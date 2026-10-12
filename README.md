@@ -2,12 +2,12 @@
 An Simple Calculator GUI Made Using Java Framework Applet
 
 Author :Sanway Nayak
-JDK 1.8 
+
 
 # REQUIRMENTS
 JDK 1.8 IS REQUIRED 
 
-# HOW TO RUNS
+# HOW TO RUN
 1) Open **CMD** go to the Folder Using the Command *cd <Folder Location>*
 2) Folow with the command *appletviewer CalGui.java*
 
